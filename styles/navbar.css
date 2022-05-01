@@ -1,0 +1,116 @@
+body {
+    font-family: 'Francois One', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background: url('https://images.unsplash.com/photo-1625151936268-e1ffba534f20?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+.left {
+    position: absolute;
+    left: 0px;
+    top: -18px;
+    color: white;
+    display: inline-block;
+    line-height: 0px;
+
+}
+
+.left img {
+    width: 250px;
+    filter: invert(100%);
+}
+
+.left div {
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 0px;
+    font-size: 18px;
+    color: darkorange;
+}
+
+.center {
+    color: white;
+    display: block;
+    width: 60%;
+    margin: 30px auto;
+
+
+}
+
+.right {
+
+    position: absolute;
+    right: 10px;
+    top: 20px;
+    color: white;
+    display: inline-block;
+
+
+}
+
+.btn {
+    font-family: 'Francois One', sans-serif;
+    margin: 0px 8px;
+    color: black;
+    padding: 5px 12px;
+    font-size: 15px;
+    cursor: pointer;
+    ;
+}
+
+
+
+
+.navbar li {
+    display: inline-block;
+    font-size: 22px;
+}
+
+.navbar li a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    padding: 34px 23px;
+}
+
+.navbar li a:hover {
+    color: slategrey;
+    text-decoration: underline;
+}
+
+.container {
+    width: 33%;
+    margin: 106px 80px;
+    padding: 75px;
+    border-radius: 25px;
+    color: white;
+}
+
+.form-group input {
+    font-family: 'Francois One', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    display: block;
+    width: 400px;
+    padding: 8px;
+    border: 3px solid black;
+    margin: 6px auto;
+    border-radius: 20px;
+}
+
+.btn1 {
+    border: 3px solid black;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 16px;
+    cursor: pointer;
+    display: block;
+    width: 140px;
+}
+h1{
+    color: rgb(233 237 6);
+}
+
